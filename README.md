@@ -14,7 +14,7 @@ A simple game of 'Simon Says' for the Arduino Nano. The game will flash a sequen
 
 ## Built With
 * C
-* Crumb simulator (https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/)
+* [Crumb simulator](https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/)
 
 
 ## Authors
